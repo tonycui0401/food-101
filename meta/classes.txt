@@ -1,2 +1,4 @@
-cracks
-non_cracks
+beignets
+hamburger
+prime_rib
+ramen
